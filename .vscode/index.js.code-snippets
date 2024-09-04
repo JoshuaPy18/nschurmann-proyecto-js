@@ -1,0 +1,13 @@
+{
+
+	
+	"Imprime en la consola": {
+		"scope": "javascript,typescript",
+		"prefix": "clg",
+		"body": [
+			"console.log('$1');",
+			"$2"
+		],
+		"description": "Imprime en consola"
+	}
+}
